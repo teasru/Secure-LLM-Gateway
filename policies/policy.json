@@ -1,0 +1,5 @@
+{
+  "blocked_keywords": ["password", "api key"],
+  "blocked_patterns": ["ignore previous instructions"],
+  "max_tokens": 500
+}

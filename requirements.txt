@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-jose
+redis
+openai
+python-dotenv
+pytest
+httpx
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
